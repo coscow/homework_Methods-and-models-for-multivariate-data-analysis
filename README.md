@@ -46,6 +46,8 @@ needed).
 
 Step 7. Analyze the quality of regression model (distribution of residuals, determination
 coefficient).
+
+
 Task-3
 
 Step 1. Choose variables for sampling from your dataset (overall – about 10 variables, 3-4 –
